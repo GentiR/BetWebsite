@@ -1,0 +1,36 @@
+C:\Users\Genti\Desktop\BettWebsite\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Genti\Desktop\BettWebsite\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Genti\Desktop\BettWebsite\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Genti\Desktop\BettWebsite\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Genti\Desktop\BettWebsite\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Genti\Desktop\Porjekti STAR LABS\BettWebsite\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Genti\Desktop\Java5\Starlabs_-_.NET_Assignment\Starlabs_-_.NET_Assignment\BettWebsite\Domain\obj\Debug\net5.0\Domain.pdb

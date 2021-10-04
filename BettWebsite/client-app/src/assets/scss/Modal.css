@@ -1,0 +1,76 @@
+.Modal {
+  position: fixed;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10%;
+  padding: 5%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  margin-right: -50%;
+  transform: translate(-40%, -50%);
+  filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.253));
+  border: 1pt solid #e7e7e7;
+}
+/* 
+.modalrow {
+  display: flexbox;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+} */
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.822);
+  z-index: 50;
+}
+
+.modal-button {
+  position: relative;
+  background-color: #db6a6a;
+  padding: 2%;
+  border-radius: 10px;
+  width: 40%;
+  border: 1px solid white;
+  margin: 5%;
+}
+
+.modal-button:hover {
+  background-color: #c2c2c2;
+}
+
+.Modal label {
+  text-align: left;
+}
+
+.Modal input,
+.Modal select {
+  padding: 2%;
+  width: 75%;
+  text-align: center;
+  background-color: #f3eded;
+}
+.modal-button:nth-child(even) {
+  background-color: rgb(133, 177, 133);
+}
+
+#edit-btn {
+  padding-right: 22px;
+  background-color: #357088;
+  padding-bottom: 0px;
+}
+#delete-btn {
+  padding-right: 5px;
+  background-color: #d83442;
+}
